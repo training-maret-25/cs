@@ -1,11 +1,11 @@
 ## CSharp Materials
 
-### 📌 Deskripsi  
-Repository ini berisi kumpulan materi pembelajaran **C#**, mulai dari konsep dasar hingga tingkat lanjut. Materi disusun secara sistematis dengan contoh kode yang jelas untuk memudahkan pemahaman.  
+### 📌 Description
+This repository contains a collection of **C#** learning materials, covering basic to advanced concepts. The materials are structured systematically with clear code examples to facilitate understanding.  
 
-### 📂 Topik yang Dibahas  
-- **Sintaks Dasar**: Variabel, tipe data, operator  
-- **Pemrograman Berorientasi Objek (OOP)**: Class, inheritance, polymorphism  
-- **Collections & LINQ**: List, Dictionary, query data secara efisien  
-- **Exception Handling**: Try-catch, custom exception  
-- **Pemrograman Asynchronous**: Async-await, Task management
+### 📂 Topics Covered
+- **Basic Syntax**: Variables, data types, operators  
+- **Object-Oriented Programming (OOP)**: Classes, inheritance, polymorphism  
+- **Collections & LINQ**: Lists, Dictionaries, efficient data querying  
+- **Exception Handling**: Try-catch, custom exceptions  
+- **Asynchronous Programming**: Async-await, Task management
